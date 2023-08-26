@@ -1,0 +1,6 @@
+D:\hao\code 2013\C#\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\hao\code 2013\C#\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\hao\code 2013\C#\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\hao\code 2013\C#\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+D:\hao\code 2013\C#\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\hao\code 2013\C#\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

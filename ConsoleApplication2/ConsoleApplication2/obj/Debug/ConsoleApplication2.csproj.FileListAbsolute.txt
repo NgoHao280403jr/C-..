@@ -1,0 +1,6 @@
+D:\hao\code 2013\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\hao\code 2013\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\hao\code 2013\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\hao\code 2013\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\hao\code 2013\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\hao\code 2013\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

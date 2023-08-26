@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSHD>
+  <HoaDon>
+    <Loai>1</Loai>
+    <MS>KH001</MS>
+    <Khach>Nguyen Van A</Khach>
+    <NgayLap>23/05/2016</NgayLap>
+    <Hang>
+      <MH>A92</MH>
+      <TenHang>Xang 92</TenHang>
+      <Gia>15500</Gia>
+    </Hang>
+    <SoLuong>20</SoLuong>
+  </HoaDon>
+  <HoaDon>
+    <Loai>2</Loai>
+    <MS>KH002</MS>
+    <Khach>Nguyen Thi B</Khach>
+    <NgayLap>3/5/2016</NgayLap>
+    <Hang>
+      <MH>A95</MH>
+      <TenHang>Xang95</TenHang>
+      <Gia>16500</Gia>
+    </Hang>
+    <SoLuong>150</SoLuong>
+  </HoaDon>
+  <HoaDon>
+    <Loai>3</Loai>
+    <MS>KH003</MS>
+    <Khach>Tran Van B</Khach>
+    <NgayLap>28/6/2017</NgayLap>
+    <Hang>
+      <MH>A95</MH>
+      <TenHang>Xang95</TenHang>
+      <Gia>16500</Gia>
+    </Hang>
+    <SoLuong>30</SoLuong>
+  </HoaDon>
+  <HoaDon>
+    <Loai>2</Loai>
+    <MS>KH004</MS>
+    <Khach>Tran Van D</Khach>
+    <NgayLap>3/5/2016</NgayLap>
+    <Hang>
+      <MH>A95</MH>
+      <TenHang>Xang95</TenHang>
+      <Gia>16500</Gia>
+    </Hang>
+    <SoLuong>150</SoLuong>
+  </HoaDon>
+</DSHD>

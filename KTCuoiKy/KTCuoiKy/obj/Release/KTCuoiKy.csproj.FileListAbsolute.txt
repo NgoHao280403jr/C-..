@@ -1,0 +1,6 @@
+D:\hao\code 2013\C#\KTCuoiKy\KTCuoiKy\bin\Release\KTCuoiKy.exe.config
+D:\hao\code 2013\C#\KTCuoiKy\KTCuoiKy\bin\Release\KTCuoiKy.exe
+D:\hao\code 2013\C#\KTCuoiKy\KTCuoiKy\bin\Release\KTCuoiKy.pdb
+D:\hao\code 2013\C#\KTCuoiKy\KTCuoiKy\obj\Release\KTCuoiKy.exe
+D:\hao\code 2013\C#\KTCuoiKy\KTCuoiKy\obj\Release\KTCuoiKy.pdb
+D:\hao\code 2013\C#\KTCuoiKy\KTCuoiKy\obj\Release\KTCuoiKy.csprojResolveAssemblyReference.cache

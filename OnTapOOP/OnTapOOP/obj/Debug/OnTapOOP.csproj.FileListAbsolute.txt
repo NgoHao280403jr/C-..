@@ -1,0 +1,6 @@
+D:\hao\code 2013\C#\OnTapOOP\OnTapOOP\bin\Debug\OnTapOOP.exe.config
+D:\hao\code 2013\C#\OnTapOOP\OnTapOOP\bin\Debug\OnTapOOP.exe
+D:\hao\code 2013\C#\OnTapOOP\OnTapOOP\bin\Debug\OnTapOOP.pdb
+D:\hao\code 2013\C#\OnTapOOP\OnTapOOP\obj\Debug\OnTapOOP.csprojResolveAssemblyReference.cache
+D:\hao\code 2013\C#\OnTapOOP\OnTapOOP\obj\Debug\OnTapOOP.exe
+D:\hao\code 2013\C#\OnTapOOP\OnTapOOP\obj\Debug\OnTapOOP.pdb

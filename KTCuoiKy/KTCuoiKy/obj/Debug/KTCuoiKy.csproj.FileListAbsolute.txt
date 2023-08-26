@@ -1,0 +1,6 @@
+D:\hao\code 2013\C#\KTCuoiKy\KTCuoiKy\bin\Debug\KTCuoiKy.exe.config
+D:\hao\code 2013\C#\KTCuoiKy\KTCuoiKy\bin\Debug\KTCuoiKy.exe
+D:\hao\code 2013\C#\KTCuoiKy\KTCuoiKy\bin\Debug\KTCuoiKy.pdb
+D:\hao\code 2013\C#\KTCuoiKy\KTCuoiKy\obj\Debug\KTCuoiKy.csprojResolveAssemblyReference.cache
+D:\hao\code 2013\C#\KTCuoiKy\KTCuoiKy\obj\Debug\KTCuoiKy.exe
+D:\hao\code 2013\C#\KTCuoiKy\KTCuoiKy\obj\Debug\KTCuoiKy.pdb
